@@ -17,7 +17,7 @@ Predicting stock prices is a challenging yet essential task for investors, trade
 ## Usage
 
 1. Clone the repository<br>
-   git clone https://github.com/your_username/microsoft-stock-price-prediction.git
+   git clone https://github.com/DipakAgarwal0703/MSFT-Stock-Price-Prediction.git
   
 2. Install the required libraries:<br>
    pip install -r requirements.txt
